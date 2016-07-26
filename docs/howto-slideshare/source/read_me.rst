@@ -1,5 +1,5 @@
 ****
-讀我
+讀我1
 ****
 
 這份 "edX 平台教學-如何上傳簡報至 SlideShare 並加入 edX 課程中" 文件是使用 Sphinx 1.2b1 和 LaTex 所創建的，
